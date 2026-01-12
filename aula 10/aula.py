@@ -24,3 +24,5 @@ import random
 auto = random.randint(1, 5)
 
 print(f"{auto}")
+nome = str(input("nome: "))
+print(nome)
