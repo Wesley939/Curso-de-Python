@@ -22,6 +22,81 @@
   </PropertyGroup>
   <ItemGroup>
     <Compile Include="curso_de_python.py" />
+    <Compile Include="Modulo 1\aula 004\aula.py" />
+    <Compile Include="Modulo 1\aula 004\exerc\ex001.py" />
+    <Compile Include="Modulo 1\aula 004\exerc\ex002.py" />
+    <Compile Include="Modulo 1\aula 006\aula.py" />
+    <Compile Include="Modulo 1\aula 006\exec\ex003.py" />
+    <Compile Include="Modulo 1\aula 006\exec\ex004.py" />
+    <Compile Include="Modulo 1\aula 007\aula.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex0010.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex0011.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex0012.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex0013.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex0014.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex0015.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex005.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex006.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex007.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex008.py" />
+    <Compile Include="Modulo 1\aula 007\exec\ex009.py" />
+    <Compile Include="Modulo 1\aula 008\aula.py" />
+    <Compile Include="Modulo 1\aula 008\exec\ex0016.py" />
+    <Compile Include="Modulo 1\aula 008\exec\ex0017.py" />
+    <Compile Include="Modulo 1\aula 008\exec\ex0018.py" />
+    <Compile Include="Modulo 1\aula 008\exec\ex0019.py" />
+    <Compile Include="Modulo 1\aula 008\exec\ex0020.py" />
+    <Compile Include="Modulo 1\aula 008\exec\ex0021.py" />
+    <Compile Include="Modulo 1\aula 009\aula.py" />
+    <Compile Include="Modulo 1\aula 009\exec\ex0022.py" />
+    <Compile Include="Modulo 1\aula 009\exec\ex0023.py" />
+    <Compile Include="Modulo 1\aula 009\exec\ex0024.py" />
+    <Compile Include="Modulo 1\aula 009\exec\ex0025.py" />
+    <Compile Include="Modulo 1\aula 009\exec\ex0026.py" />
+    <Compile Include="Modulo 1\aula 009\exec\ex0027.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\aula.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\exec\ex028.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\exec\ex029.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\exec\ex030.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\exec\ex031.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\exec\ex032.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\exec\ex033.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\exec\ex034.py" />
+    <Compile Include="Modulo 1\aula 010\aula 10\exec\ex035.py" />
+    <Compile Include="Modulo 1\aula 010\aula.py" />
+    <Compile Include="Modulo 1\aula 010\exec\ex028.py" />
+    <Compile Include="Modulo 1\aula 010\exec\ex029.py" />
+    <Compile Include="Modulo 1\aula 010\exec\ex030.py" />
+    <Compile Include="Modulo 1\aula 010\exec\ex031.py" />
+    <Compile Include="Modulo 1\aula 010\exec\ex032.py" />
+    <Compile Include="Modulo 1\aula 010\exec\ex033.py" />
+    <Compile Include="Modulo 1\aula 010\exec\ex034.py" />
+    <Compile Include="Modulo 1\aula 010\exec\ex035.py" />
+    <Compile Include="Modulo 1\aula 011\aula.py" />
+  </ItemGroup>
+  <ItemGroup>
+    <Folder Include="Modulo 1\" />
+    <Folder Include="Modulo 1\aula 004\" />
+    <Folder Include="Modulo 1\aula 004\exerc\" />
+    <Folder Include="Modulo 1\aula 006\" />
+    <Folder Include="Modulo 1\aula 006\exec\" />
+    <Folder Include="Modulo 1\aula 007\" />
+    <Folder Include="Modulo 1\aula 007\exec\" />
+    <Folder Include="Modulo 1\aula 008\" />
+    <Folder Include="Modulo 1\aula 008\exec\" />
+    <Folder Include="Modulo 1\aula 009\" />
+    <Folder Include="Modulo 1\aula 009\exec\" />
+    <Folder Include="Modulo 1\aula 010\" />
+    <Folder Include="Modulo 1\aula 010\aula 10\" />
+    <Folder Include="Modulo 1\aula 010\aula 10\exec\" />
+    <Folder Include="Modulo 1\aula 010\exec\" />
+    <Folder Include="Modulo 1\aula 011\" />
+    <Folder Include="Modulo 2\" />
+    <Folder Include="Modulo 2\aula 12\" />
+    <Folder Include="Modulo 2\aula 12\exec\" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Modulo 1\aula 008\exec\ex0021.mp3" />
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath32)\Microsoft\VisualStudio\v$(VisualStudioVersion)\Python Tools\Microsoft.PythonTools.targets" />
   <!-- Uncomment the CoreCompile target to enable the Build command in
