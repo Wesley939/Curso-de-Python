@@ -13,7 +13,7 @@ casa = int(input("Qual o valor da casa: R$"))
 salario = float(input("Qual o seu salario: R$"))
 financiamento = int(input("Quantos anos Pretende financiar? "))
 
-prestacao = casa / (financiamento * 15) 
+prestacao = casa / (financiamento * 12) 
 
 porcentagemSalario = salario * 0.30
 
