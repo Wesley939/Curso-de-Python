@@ -1,10 +1,11 @@
+# -*- coding: utf-8 -*-
 """
 
 escreva um programa que leia dois numeros inteiros e compare-se,
 mostrando na tela uma mensagem:
 
-> O primeros valor È Maior
-> O segundo valor È Maior
-> N„o existe um valor Maior, os dois s„o iguais
+> O primeiro valor √© Maior
+> O segundo valor √© Maior
+> N√£o existe um valor Maior, os dois s√£o iguais
 
 """

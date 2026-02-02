@@ -73,6 +73,16 @@
     <Compile Include="Modulo 1\aula 010\exec\ex034.py" />
     <Compile Include="Modulo 1\aula 010\exec\ex035.py" />
     <Compile Include="Modulo 1\aula 011\aula.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex036.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex037.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex038.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex039.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex040.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex041.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex042.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex043.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex044.py" />
+    <Compile Include="Modulo 2\aula 12\exec\ex045.py" />
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Modulo 1\" />
