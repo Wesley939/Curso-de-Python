@@ -1,6 +1,6 @@
 """
 
-A confederação nacional de natação precisa de programa que leia o ano 
+confederação nacional de natação precisa de programa que leia o ano 
 de anacimento de um atleta e mostre sua categoria, de acordo com a idade.
 
 > Até 9 anos: Mirim
