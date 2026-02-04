@@ -15,7 +15,7 @@ c = int(input('Digite o terceiro lado do triangulo: '))
 
 if b == a and b == c:
     print('isso forma um triangulo EQUILATERO')
-elif c == a or c == b:
+elif c == a or c == b or a == b:
     print('Dois lados de um triangulo formam um triangulo ISÓSCELES')    
 else:
     print('Todos os lados do triangulo sao diferentes e isso forma um triangulo ESCALENO ')
