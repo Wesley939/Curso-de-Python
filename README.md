@@ -1,4 +1,4 @@
-Curso de Python — Mundo 1
+CURSO DE PYTHON - MUNDO 1
 
 Esse repositório contém os exercícios do Curso em Vídeo (Python Mundo 1)
 Conteúdo
@@ -8,12 +8,12 @@ Conteúdo
     Entrada/Saída
     Condicionais
 
-Como rodar
+#Como rodar
 
     Instalar Python
     Abrir terminal
     Executar: python nome_do_arquivo.py
 
-Objetivos
+#Objetivos
 
 Aprender lógica básica e fundamentos de Python
