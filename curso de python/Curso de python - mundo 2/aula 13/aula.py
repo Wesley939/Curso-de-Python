@@ -1,4 +1,5 @@
 #lacos de repetição
 
-for c in range(0, 10):
-    print(c)
+nome = 'wesley assis del valle'
+for c in range(len(nome)):
+    print(nome[c])
