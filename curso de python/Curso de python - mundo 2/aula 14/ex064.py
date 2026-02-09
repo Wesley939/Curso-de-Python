@@ -1,0 +1,2 @@
+#Crie um jprogram que leia  VÁRIOS NÚMEROS inteiros pelo teclado. o program só vai parar quando o usuário digitar o valor ´999´, 
+# que é a  CODIÇÃO DE PARADA. No final mostre QUANTOS NÚMEROS foram digitados e qual foi a SOMA entre eles ´(desconsiderando o 999)´.

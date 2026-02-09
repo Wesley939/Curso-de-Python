@@ -1,0 +1,1 @@
+#Escreva um program que leia um NÚMERO N inteiro qualquer e mostre na tela os N primeros elementos de uma SEQUÊNCIA DE FIBONACCI.

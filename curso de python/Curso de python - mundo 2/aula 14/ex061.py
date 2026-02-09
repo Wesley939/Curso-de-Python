@@ -1,0 +1,1 @@
+#Refaça o  DESAFIO 051, lendo o lpromerio termo e a de uma PA, mostrando os 10 PRIMEIROS TERMOS da progressão usando a estrutura WHILE.
