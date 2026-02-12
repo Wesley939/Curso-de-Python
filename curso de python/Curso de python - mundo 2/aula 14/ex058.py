@@ -1,26 +1,26 @@
-#Melhore o jogo do DESAFIO 028 onde o computador vai ´´´pensar´´ em um 
-#NÚMERO ENTRE 0 E 10. Só que agora o jogador vai tentar adivinhar até acertar,
-#mostrando no final quantos palpites foram necessários para vencer.
-
-
-
-
-
+# Melhore o jogo do DESAFIO 028 onde o computador vai ´´´pensar´´ em um
+# NÚMERO ENTRE 0 E 10. Só que agora o jogador vai tentar adivinhar até acertar,
+# mostrando no final quantos palpites foram necessários para vencer.
 
 from random import randint
 
-print("sou seu computador")
-print("acabei de pensar em um numero emtre 0 e 10")
-print("Sera que você consegue adivinhar")
+print('Sou seu computador ...')
+print('acabei de pensar em um numeros de 0 a 10.')
+print('sera que voce consegue adivinhar?')
 
-user = int(input("Qual o seu palpite: "))
-
-computer = randint(0,10)
+computer = randint(0, 10)
 counter = 0
 
-while user != computer:
-    print("Menos... Tente novamente mais uma vez.")
-    user = int(input("Qual é seu palpite: "))
-    counter += 1
+heGotItRight = False
 
-print(f"acertou com {counter} tentativas. Parabéns. ")   
+while not heGotItRight:
+    user = int(input('Qual é seu palpite? '))
+    counter += 1
+    if user == computer:
+        heGotItRight = True
+    else:
+        if user > computer:
+            print("Menos...")
+        elif user < computer:
+            print("Mais...")
+print(f"Acertou com {counter} tentativas. Parabens!")

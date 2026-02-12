@@ -12,5 +12,3 @@
 n = 'sim'
 while n != 'dim':
     n = str(input("Digite sim para finalizar: "))
-
-teste = int(input(``))
